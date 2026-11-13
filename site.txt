@@ -1,2 +1,1 @@
-added to file
-updated homepage
+line1: welcome to our site
